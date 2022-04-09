@@ -39,6 +39,7 @@ public class RahulshettyAcademyTests extends TestBase{
         rsh.getRSSection1().selectcountry("India");
         Thread.sleep(5000);
         System.out.println("Country selected132");
+        System.out.println("Country selected7");
     }
 
     @Test(groups = "smoke")
