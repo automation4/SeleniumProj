@@ -38,7 +38,7 @@ public class RahulshettyAcademyTests extends TestBase{
         driver.get(Utils.getInstance().getdata("testurl1"));
         rsh.getRSSection1().selectcountry("India");
         Thread.sleep(5000);
-        System.out.println("Country selected2");
+        System.out.println("Country selected3");
     }
 
     @Test(groups = "smoke")
