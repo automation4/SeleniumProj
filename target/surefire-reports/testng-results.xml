@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="11" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-09T16:39:31 IST" name="Practice Suite" finished-at="2022-04-09T16:40:10 IST" duration-ms="38585">
+    <groups>
+      <group name="smoke">
+        <method signature="RahulshettyAcademyTests.rahulShettySection1Country()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" name="rahulShettySection1Country" class="com.tests.RahulshettyAcademyTests"/>
+        <method signature="RahulshettyAcademyTests.rahulShettySection1Dropdown()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" name="rahulShettySection1Dropdown" class="com.tests.RahulshettyAcademyTests"/>
+        <method signature="RahulshettyAcademyTests.rahulShettySection1Radio()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" name="rahulShettySection1Radio" class="com.tests.RahulshettyAcademyTests"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-04-09T16:39:31 IST" name="Test Basics 1" finished-at="2022-04-09T16:40:10 IST" duration-ms="38585">
+      <class name="com.tests.RahulshettyAcademyTests">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:39:32 IST" name="initializeDriver" finished-at="2022-04-09T16:39:36 IST" duration-ms="4138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="rahulShettySection1Country()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:39:36 IST" name="rahulShettySection1Country" finished-at="2022-04-09T16:39:48 IST" duration-ms="11865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rahulShettySection1Country -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:39:48 IST" name="close" finished-at="2022-04-09T16:39:48 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:39:48 IST" name="initializeDriver" finished-at="2022-04-09T16:39:49 IST" duration-ms="1374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="rahulShettySection1Dropdown()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:39:49 IST" name="rahulShettySection1Dropdown" finished-at="2022-04-09T16:39:58 IST" duration-ms="9329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rahulShettySection1Dropdown -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:39:58 IST" name="close" finished-at="2022-04-09T16:39:59 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:39:59 IST" name="initializeDriver" finished-at="2022-04-09T16:40:00 IST" duration-ms="1322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="rahulShettySection1Radio()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:40:00 IST" name="rahulShettySection1Radio" finished-at="2022-04-09T16:40:10 IST" duration-ms="9769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rahulShettySection1Radio -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.tests.RahulshettyAcademyTests@4d465b11]" started-at="2022-04-09T16:40:10 IST" name="close" finished-at="2022-04-09T16:40:10 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.tests.RahulshettyAcademyTests -->
+    </test> <!-- Test Basics 1 -->
+  </suite> <!-- Practice Suite -->
+</testng-results>
